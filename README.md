@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Michael
 
-I'm a passionate front-end developer, designer, and graphic artist based in Angeles City, Philippines. With a keen eye for design and a love for clean, efficient code, I strive to create immersive web experiences that captivate and engage users.
+I'm a passionate front-end developer, designer, and graphic artist based in Angeles City, Philippines. With a keen eye for design and a love for clean, efficient code, I strive to create immersive web experiences that captivate and engage users and design brands that are sure to capture people's attention.
 
 ## 🔧 Tech Stack
 
-- **React**: Harnessing the power of React to build dynamic and interactive user interfaces.
-- **Vite**: Leveraging Vite for fast and efficient development and bundling.
-- **Next.js**: Building scalable and performant web applications with Next.js.
-- **Tailwind CSS**: Crafting beautiful, responsive designs with Tailwind CSS's utility-first approach.
-- **GSAP**: Adding life to web animations with the GreenSock Animation Platform.
+- **React**
+- **Vite**
+- **Next.js**
+- **Tailwind CSS**
+- **GSAP**
 
 ## 🚀 Projects
 
